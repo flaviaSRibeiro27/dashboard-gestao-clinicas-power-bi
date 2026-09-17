@@ -2,6 +2,10 @@
 
 Projeto desenvolvido no Power BI para analisar dados fictícios de atendimentos de uma rede de clínicas. O dashboard permite acompanhar indicadores operacionais e financeiros, identificar padrões mensais e comparar unidades e especialidades.
 
+## Visualização do Dashboard
+<img width="905" height="508" alt="image" src="https://github.com/user-attachments/assets/2e50a85d-0f34-4269-bc1d-05d56fb0bf4b" />
+
+
 ## Visão geral
 
 O painel apresenta:
